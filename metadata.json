@@ -1,0 +1,6 @@
+{
+  "name": "Veloura Social",
+  "description": "A luxury lifestyle, dining, and accessory shopping application combining affordable premium dining, high-end rings, fashion items, and table reservations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
